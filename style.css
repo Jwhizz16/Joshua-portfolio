@@ -276,7 +276,9 @@ nav {
     h3 {
         font-size: 1.6rem;
     }
-
+    .hero {
+        padding-top: 60px;
+    }
     .skills-grid {
         grid-template-columns: 1fr;
     }
