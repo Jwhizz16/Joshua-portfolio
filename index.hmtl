@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joshua Adeyemi | Portfolio</title>
+</head>
+
+<body>
+
+    <h1>Joshua Adeyemi</h1>
+    <h2>Undergraduate Data Science Student</h2>
+
+    <h3>About Me</h3>
+
+    <p>
+        Welcome to my professional portfolio. I am an undergraduate Data Science
+        student at Nottingham Trent University. This portfolio will showcase my
+        skills, projects, achievements and professional development throughout
+        my degree.
+    </p>
+
+</body>
+
+</html>
