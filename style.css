@@ -168,6 +168,9 @@ nav {
         gap: 15px;
         flex-wrap: wrap;
     }
+    .skills-grid {
+    grid-template-columns: 1fr;
+    }
 }
 /* Skills Section */
 
