@@ -266,12 +266,11 @@ nav {
     }
 
     .hero h1 {
-        font-size: 2rem;
+    font-size: 2rem;
     }
 
-    h2 {
-        font-size: 1.2rem;
-        margin-bottom: 40px;
+    .hero h2 {
+        font-size: 1.1rem;
     }
 
     h3 {
