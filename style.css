@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5f7fa;
+    color: #1f2937;
+    line-height: 1.6;
+}
+
+/* Main introduction */
+
+body {
+    padding: 80px 10%;
+}
+
+h1 {
+    font-size: 3.5rem;
+    color: #111827;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: #4b5563;
+    font-weight: 500;
+    margin-bottom: 60px;
+}
+
+h3 {
+    font-size: 2rem;
+    color: #111827;
+    margin-bottom: 20px;
+}
+
+/* About me text */
+
+p {
+    max-width: 750px;
+    font-size: 1.1rem;
+    color: #4b5563;
+}
+
+/* Small line above the name */
+
+body::before {
+    content: "PORTFOLIO";
+    display: block;
+    font-size: 0.8rem;
+    font-weight: bold;
+    letter-spacing: 3px;
+    color: #2563eb;
+    margin-bottom: 15px;
+}
+
+/* Mobile */
+
+@media (max-width: 600px) {
+
+    body {
+        padding: 50px 25px;
+    }
+
+    h1 {
+        font-size: 2.5rem;
+    }
+
+    h2 {
+        font-size: 1.2rem;
+        margin-bottom: 40px;
+    }
+
+    h3 {
+        font-size: 1.6rem;
+    }
+}
