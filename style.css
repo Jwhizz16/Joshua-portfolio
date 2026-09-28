@@ -269,6 +269,9 @@ nav {
     font-weight: 600;
 }
 
+.project-button:hover {
+    opacity: 0.85;
+}
 
 /* Mobile */
 
