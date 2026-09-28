@@ -160,3 +160,28 @@ nav {
     font-size: 1rem;
     color: #4b5563;
 }
+/* Work Portfolio */
+
+#projects {
+    margin-top: 100px;
+}
+
+.project-card {
+    background-color: white;
+    padding: 25px;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    max-width: 900px;
+}
+
+.project-card h4 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color: #111827;
+}
+
+.project-card p {
+    font-size: 1rem;
+    margin-bottom: 10px;
+    color: #4b5563;
+}
