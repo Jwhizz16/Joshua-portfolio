@@ -62,30 +62,6 @@ body::before {
     margin-bottom: 15px;
 }
 
-/* Mobile */
-
-@media (max-width: 600px) {
-
-    body {
-        padding: 50px 25px;
-    }
-
-    h1 {
-        font-size: 2.5rem;
-    }
-
-    h2 {
-        font-size: 1.2rem;
-        margin-bottom: 40px;
-    }
-
-    h3 {
-        font-size: 1.6rem;
-    }
-
-    .skills-grid {
-    grid-template-columns: 1fr;
-}
 
 /* Navigation Bar */
 
@@ -280,4 +256,29 @@ nav {
 
 #contact a:hover {
     background-color: #1d4ed8;
+}
+/* Mobile */
+
+@media (max-width: 600px) {
+
+    body {
+        padding: 50px 25px;
+    }
+
+    h1 {
+        font-size: 2.5rem;
+    }
+
+    h2 {
+        font-size: 1.2rem;
+        margin-bottom: 40px;
+    }
+
+    h3 {
+        font-size: 1.6rem;
+    }
+
+    .skills-grid {
+        grid-template-columns: 1fr;
+    }
 }
