@@ -86,8 +86,6 @@ body::before {
     .skills-grid {
     grid-template-columns: 1fr;
 }
-    
-}
 
 /* Navigation Bar */
 
