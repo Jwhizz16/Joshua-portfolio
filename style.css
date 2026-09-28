@@ -82,6 +82,11 @@ body::before {
     h3 {
         font-size: 1.6rem;
     }
+
+    .skills-grid {
+    grid-template-columns: 1fr;
+}
+    
 }
 
 /* Navigation Bar */
